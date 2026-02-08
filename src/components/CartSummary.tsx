@@ -1,4 +1,4 @@
-import { CartItem } from '../hooks/useCart';
+import type { CartItem } from '../hooks/useCart';
 import { formatCurrency } from '../utils/pricing';
 
 interface Props {

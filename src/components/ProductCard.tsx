@@ -1,4 +1,4 @@
-import { Product } from '../services/api';
+import type { Product } from '../services/api';
 import { formatCurrency } from '../utils/pricing';
 
 interface Props {

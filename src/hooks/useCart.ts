@@ -1,5 +1,5 @@
 import { useState, useCallback } from 'react';
-import { Product } from '../services/api';
+import type { Product } from '../services/api';
 import { calculateTotal, calculateTax, calculateDiscount } from '../utils/pricing';
 
 export interface CartItem {
