@@ -6,7 +6,7 @@ A didactic example of how to structure a React application for maximum testabili
 
 ---
 
-🔊 **[Listen to this section](./audio/section-1-introduction.wav)**
+https://github.com/tonylampada/react-testable-architecture/raw/master/audio/section-1-introduction.mp4
 
 ## 1. Introduction — Why Testable Architecture Matters
 
