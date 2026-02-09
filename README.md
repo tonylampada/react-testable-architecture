@@ -292,6 +292,19 @@ Tests run automatically on every push and pull request via GitHub Actions. See [
 
 ---
 
+---
+
+## 9. Best Practices Reference
+
+This repo also serves as a reference for React testable architecture patterns:
+
+- **[PATTERNS.md](./PATTERNS.md)** — 12 best practices with ✅ do / ❌ don't examples covering separation of concerns, dependency injection, derived state, error handling, TypeScript conventions, and more.
+- **[REVIEW_GUIDE.md](./REVIEW_GUIDE.md)** — A practical PR review checklist for AI and human reviewers. Includes per-layer checks, red flags, review comment examples, and refactoring guidance.
+
+Use these as a companion when building or reviewing React applications that follow this architecture.
+
+---
+
 ## License
 
 MIT
